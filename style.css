@@ -1,6 +1,19 @@
 :root{
-    --cor-de-fundo:#2b012c;
+    --cor-de-fundo:#ffffff;
 }
+
 body{
-    background-color:#ffffff;
+    background-color:var(--cor-de-fundo);
 }
+
+img {
+    width: 10%;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+/* Maltaca Store */
