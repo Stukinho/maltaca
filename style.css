@@ -18,6 +18,10 @@ header {
 
 /* Maltaca Store */
 
-#greca{
+.greca{
 width: 50%;
+}
+
+.introducao{
+   display: flex;    
 }
