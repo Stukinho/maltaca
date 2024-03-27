@@ -4,6 +4,10 @@
 
 body{
     background-color:var(--cor-de-fundo);
+    font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 550;
+  font-style: normal;
 }
 
 img {
