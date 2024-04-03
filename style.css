@@ -38,7 +38,9 @@ width: 50%;
     grid-template-columns: 33% 33% 33%;
     text-align: center;
 }
+.ggg{
 <element class="ggg">
    .element.style {
     width: 30%;
+}
 }
