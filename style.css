@@ -42,3 +42,12 @@ header {
 .gg{
     width: 40%;
 }
+
+.introducao{    margin: 20px 0 0 0;
+    background-color: light_gray;
+    border-top: 2px solid black;
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    text-align: center;
+
+}
