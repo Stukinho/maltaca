@@ -56,9 +56,9 @@ header {
 }
 .produtos{
     display: flex;
-    width: 150%;
-    background-color: gray;
-    box-shadow: -20px -20px 0px 0px black;
+    width: 100%;
+    background-color: #C9C7C7;
+    box-shadow: -20px -20px 0px 0px #D1CECE;
     margin: 45px;
     
 }
