@@ -8,7 +8,6 @@ body{
   font-optical-sizing: auto;
   font-weight: 550;
   font-style: normal;
-  font-size: 1000;
 }
 
 img {
@@ -19,6 +18,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-around;
+    font-size: large;
 }
 
 /* Maltaca Store */
