@@ -54,9 +54,14 @@ header {
     grid-template-columns: 50% 50%;
     text-align: center;
 }
+.prod{
+    display: grid;
+    grid-template-columns: 20% 80%;
+    text-align: center;
+}
 .produtos{
     display: flex;
-    width: 200%;
+    width: 150%;
     background-color: #C9C7C7;
     box-shadow: -20px -20px 0px 0px #D1CECE;
     margin: 45px;
