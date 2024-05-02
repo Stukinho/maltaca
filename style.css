@@ -1,9 +1,12 @@
 :root{
     --cor-de-fundo:#ffffff;
 }
+:root{
+    --cor-de-fundo2:#7c7878;
+}
 
 body{
-    background-color:var(--cor-de-fundo);
+    background-color:var(--cor-de-fundo2);
     font-family: "Raleway", sans-serif;
   font-optical-sizing: auto;
   font-weight: 550;
@@ -26,7 +29,7 @@ header {
 
 .introducao{
     display: flex;
-    font-weight: 800;
+
 }
 
 .cr {
