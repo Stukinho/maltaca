@@ -6,7 +6,7 @@ body{
     background-color:var(--cor-de-fundo);
     font-family: "Raleway", sans-serif;
   font-optical-sizing: auto;
-  font-weight: 2000;
+  font-weight: 550;
   font-style: normal;
 }
 
@@ -25,7 +25,8 @@ header {
 
 
 .introducao{
-    display: flex;    
+    display: flex;
+    font-weight: 800;
 }
 
 .cr {
