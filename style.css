@@ -55,6 +55,11 @@ header {
     text-align: center;
 }
 .produtos{
+    display: flex;
+    width: 90%;
+    background-color: gray;
+    box-shadow: -20px -20px 0px 0px black;
+    margin: 45px;
     
 }
 .divisoes{
