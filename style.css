@@ -1,8 +1,6 @@
 :root{
     --cor-de-fundo:#ffffff;
-}
-:root{
-    --cor-de-fundo2:#ffffffcb;
+    --cor-de-fundo2:#EDE9E9;
 }
 
 body{
@@ -40,7 +38,8 @@ header {
     width: 40%;
 }
 
-.introducao{    margin: 20px 0 0 0;
+.introducao{   
+     margin: 20px 0 0 0;
     background-color: var(--cor-de-fundo2);
     border-top: 2px solid black;
     display: grid;
