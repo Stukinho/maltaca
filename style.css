@@ -6,8 +6,9 @@ body{
     background-color:var(--cor-de-fundo);
     font-family: "Raleway", sans-serif;
   font-optical-sizing: auto;
-  font-weight: 1550;
+  font-weight: 550;
   font-style: normal;
+  width: 150%;
 }
 
 img {
