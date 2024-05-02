@@ -2,11 +2,11 @@
     --cor-de-fundo:#ffffff;
 }
 :root{
-    --cor-de-fundo2:#7c7878;
+    --cor-de-fundo2:#afa6a6;
 }
 
 body{
-    background-color:var(--cor-de-fundo2);
+    background-color:var(--cor-de-fundo);
     font-family: "Raleway", sans-serif;
   font-optical-sizing: auto;
   font-weight: 550;
@@ -25,13 +25,6 @@ header {
 
 /* Maltaca Store */
 
-
-
-.introducao{
-    display: flex;
-
-}
-
 .cr {
     display: flex;
 }
@@ -48,7 +41,7 @@ header {
 }
 
 .introducao{    margin: 20px 0 0 0;
-    background-color: light_gray;
+    background-color: var(--cor-de-fundo2);
     border-top: 2px solid black;
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
